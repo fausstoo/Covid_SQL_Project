@@ -1,7 +1,7 @@
 # Covid_SQL_Portfolio_Project
 Tasks made it:
-1- Download the latest covid data from https://ourworldindata.org in a csv format
-2- Create 2 excel workbooks: "Deaths" & "Vaccinations"
+1- Download the latest covid data from https://ourworldindata.org in a csv format./
+2- Create 2 excel workbooks: "Deaths" & "Vaccinations"./
 3- Use of the following querys to retrieve the data:
 
 select *
